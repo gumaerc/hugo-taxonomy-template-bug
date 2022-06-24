@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+[taxonomies]
+test_taxonomy = "test_taxonomy"
+[outputs]
+taxonomy = [ 'HTML' ]
+term = [ 'HTML' ]
