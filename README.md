@@ -20,6 +20,7 @@ test_taxonomy:
 ---
 ```
  - Defined taxonomy templates:
+
 `layouts/test_taxonomy/taxonomy.html`:
 ```
 <html>
